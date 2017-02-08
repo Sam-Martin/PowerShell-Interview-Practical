@@ -4,7 +4,7 @@
 1. Clone this repository to your local computer
 
 ## Scenario 1
-You have a csv file containing a list of users' names incorrectly.  
+You have a csv file containing a list of users' names incorrectly captilised.  
 You need to output a JSON file containing the users' names properly capitalised, with at least one user assigned the property "Administrator" at random.
 
 ### Acceptance Criteria
