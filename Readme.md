@@ -41,3 +41,4 @@ Create Pester tests for the first script and commit to its branch, and submit a 
 
 1. Pester tests covering randomised input to script #1
 2. Committed to the scripts' branch with an appropriate commit message
+3. Pull request submitted to [https://github.com/Sam-Martin/PowerShell-Interview-Practical](https://github.com/Sam-Martin/PowerShell-Interview-Practical)
